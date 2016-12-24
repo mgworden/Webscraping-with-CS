@@ -1,0 +1,12 @@
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\Webscraping with C$.exe.config
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\Webscraping with C$.exe
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\Webscraping with C$.pdb
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\FSharp.Core.dll
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\ScrapySharp.Core.dll
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\ScrapySharpAsync.dll
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\FSharp.Core.xml
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\obj\Debug\Webscraping with C$.exe
+C:\Users\MGW\Documents\Visual Studio 2015\Projects\Webscraping with C$\Webscraping with C$\obj\Debug\Webscraping with C$.pdb
